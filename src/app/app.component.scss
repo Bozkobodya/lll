@@ -1,0 +1,14 @@
+div{
+    background-color: black;
+}
+
+.lll{
+    background: green;
+    z-index: 3;
+
+    &__ll{
+        background-color: blue;
+        color: red;
+        margin: 20px;
+    }
+}
